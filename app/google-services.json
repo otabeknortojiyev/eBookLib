@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "68482600521",
+    "project_id": "book-app-f2b6b",
+    "storage_bucket": "book-app-f2b6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68482600521:android:295743b90194c73dfaf998",
+        "android_client_info": {
+          "package_name": "uz.gita.otabek.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16Mr7yCltbkb_l4k9Wl1Ha0ree_VdpnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68482600521:android:95d5f0288d6f09f1faf998",
+        "android_client_info": {
+          "package_name": "uz.gita.otabek.ebooklib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA16Mr7yCltbkb_l4k9Wl1Ha0ree_VdpnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
